@@ -1,13 +1,13 @@
-# tblack-jack
-By Smokingsnakes83.
+# tblack-jack v1.0
+	
+<b>This game is based in the black jack game.</b>
 
-This game is based in the black jack game.
+<b>Install:</b><br/>
+Into folder that you download, open the terminal and type: "tar -xvf tblack-jack-tblack-jack-v1.0.tar.gz" for extract.
 
-Into folder that you download use open the terminal and type: tar -xvf tblack-jack-tblack-jack-v1.0.tar.gz for extract.
-
-To compiler:<\n>
-run the command make into ~/"username"/"PATH"/tblack-jack-tblack-jack-v1.0
+<b>To compiler:</b><br/>
+run the command make into ~/"username"/"PATH"/tblack-jack-tblack-jack-v1.0<br/>
 Following run the command sudo make install.
 
-To uninstall:
+<b>To uninstall:</b><br />
 run the command make uninstall.
