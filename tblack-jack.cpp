@@ -1,7 +1,8 @@
 #include <iostream>
-#include <time.h>
+#include <ctime>
 #include <thread>
 #include <chrono>
+#include <cstdlib>
 
 int main()
 {
@@ -13,13 +14,14 @@ int main()
 		int bet;
 		int coininit = {10};	
 		char c;
+		std::string username = getenv("USERNAME");
 
 		srand (time(NULL));
 		system( "clear || CLS" );
 
 		while( coininit > 0 ){
 				std::cout << "\u2660\u2663\e[31;1m\u2665\u2666\e[m Tblack-Jack \u2660\u2663\e[31;1m\u2665\u2666\e[m"  << "\n";
-				std::cout << "\nVOCÊ TEM " << coininit << " COINS." << '\n';
+				std::cout << '\n' << username << " VOCÊ TEM " << coininit << " COINS." << '\n';
 				std::cout << "\nQUAL SUA APOSTA?"  << '\n';
 				std::cin >> bet;
 
