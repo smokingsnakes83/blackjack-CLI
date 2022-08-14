@@ -1,4 +1,4 @@
-TARGET=tblack-jack
+TARGET=tblack-jack-1.01
 CPP=g++
 OPT=-O3
 WARN=-Wall
