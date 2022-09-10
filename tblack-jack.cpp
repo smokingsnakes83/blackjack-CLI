@@ -7,12 +7,12 @@
 int main()
 {
 		char play;
-		int totalp = {0};
-		int totald = {0};
+		int totalp {0};
+		int totald {0};
 		int deck;
-		int aux = {0};
+		int aux {0};
 		int bet;
-		int coininit = {10};	
+		int coininit {10};	
 		char c;
 		std::string username = getenv("USERNAME");
 
