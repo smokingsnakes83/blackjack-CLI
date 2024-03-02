@@ -6,9 +6,9 @@
 
 Open the terminal and type:<br>
 '''
-git clone https://github.com/smokingsnakes83/tblack-jack.git blackjack-CLI<br>
-cd blackjack-CLI<br>
-make<br>
+git clone https://github.com/smokingsnakes83/tblack-jack.git blackjack-CLI
+cd blackjack-CLI
+make
 sudo make install
 '''
 <br><br>
