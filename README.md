@@ -5,7 +5,7 @@
 ## Install:
 
 ## Open the terminal and type:
-```
+```bash
 git clone https://github.com/smokingsnakes83/tblack-jack.git blackjack-CLI
 cd blackjack-CLI
 make
