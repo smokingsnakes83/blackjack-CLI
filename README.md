@@ -4,7 +4,7 @@
 
 <b>Install:</b><br/>
 
-Open the terminal and type: 
+Open the terminal and type:<br>
 git clone https://github.com/smokingsnakes83/tblack-jack.git blackjack-CLI<br>
 cd blackjack-CLI<br>
 make<br>
