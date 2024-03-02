@@ -3,9 +3,14 @@
 <b>This game is based in the black jack game.</b>
 
 <b>Install:</b><br/>
-Into the folder that you download, open the terminal and type: "tar -xvf blackjack-CLI v1.01.tar.gz" for extract.
-Run the command make into ~/"username"/"PATH"/blackjack-CLI v1.01<br/>
-Following run the command sudo make install.
+
+Open the terminal and type: 
+git clone https://github.com/smokingsnakes83/tblack-jack.git blackjack-CLI
+cd blackjack-CLI
+make
+sudo make install
 
 <b>To uninstall:</b><br />
-Run the command make uninstall.
+
+In the terminal type:
+sudo make uninstall.
