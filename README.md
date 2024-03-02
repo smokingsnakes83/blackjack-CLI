@@ -5,12 +5,12 @@
 <b>Install:</b><br/>
 
 Open the terminal and type: 
-git clone https://github.com/smokingsnakes83/tblack-jack.git blackjack-CLI
-cd blackjack-CLI
-make
+git clone https://github.com/smokingsnakes83/tblack-jack.git blackjack-CLI<br>
+cd blackjack-CLI<br>
+make<br>
 sudo make install
+<br><br>
+<b>To uninstall:</b><br/>
 
-<b>To uninstall:</b><br />
-
-In the terminal type:
+In the terminal type:<br>
 sudo make uninstall.
