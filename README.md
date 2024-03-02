@@ -1,23 +1,21 @@
-#blackjack-CLI v1.01 
+# Blackjack-CLI v1.01 
 	
-#This game is based in the black jack game.
+# This game is based in the black jack game.
 
-##Install:
+## Install:
 
-##Open the terminal and type:
-
+## Open the terminal and type:
+```
 git clone https://github.com/smokingsnakes83/tblack-jack.git blackjack-CLI
-
 cd blackjack-CLI
-
 make
-
 sudo make install
+```
 
+# To uninstall:
 
-#To uninstall:
-
-##In the terminal type:
-
+## In the terminal type:
+```
 sudo make uninstall.
+```
 
