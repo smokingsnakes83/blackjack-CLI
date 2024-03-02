@@ -7,7 +7,7 @@ all:$(OBJS)
 	$(CPP) $(OBJS) $(WARN) $(OPT) -o $(TARGET) 
 install:
 	@install $(TARGET) /usr/local/bin/$(TARGET)
-unistall:
+uninstall:
 	@rm /usr/local/bin/$(TARGET)
 clean:
 	@rm -rf $(TARGET)	
