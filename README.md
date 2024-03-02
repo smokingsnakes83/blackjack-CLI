@@ -1,4 +1,4 @@
-# blackjack-CLI v1.01 v1.01
+# blackjack-CLI v1.01 
 	
 <b>This game is based in the black jack game.</b>
 
