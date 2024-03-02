@@ -1,8 +1,8 @@
-TARGET=tblack-jack-1.01
+TARGET=blackjack-CLI
 CPP=g++
 OPT=-O3
 WARN=-Wall
-OBJS=tblack-jack.cpp
+OBJS=blackjack-CLI.cpp
 all:$(OBJS)
 	$(CPP) $(OBJS) $(WARN) $(OPT) -o $(TARGET) 
 install:
